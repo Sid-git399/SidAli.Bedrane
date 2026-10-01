@@ -2,6 +2,10 @@
 
 A high-end, heavily animated portfolio for a **Mobile, Web & AI developer**, built with **React**, **Tailwind CSS** and **Framer Motion**.
 
+live: 
+app:https://sid-ali-bedrane.vercel.app/
+
+
 ## ✏️ Customize — edit one file
 
 All content lives in **`src/data.js`**: name, roles, bio, stats, services, skills, experience, projects, testimonials, contact info, social links, theme colors and which sections are shown. You don't need to touch any component.
